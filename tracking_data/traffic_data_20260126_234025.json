@@ -1,0 +1,28 @@
+{
+  "session_info": {
+    "start_time": "2026-01-26T23:40:25.561022",
+    "total_frames": 0,
+    "frame_dimensions": "1280x720",
+    "lane_setup": {
+      "Left": [
+        0,
+        240,
+        426,
+        720
+      ],
+      "Center": [
+        426,
+        240,
+        852,
+        720
+      ],
+      "Right": [
+        852,
+        240,
+        1280,
+        720
+      ]
+    }
+  },
+  "tracking_data": []
+}

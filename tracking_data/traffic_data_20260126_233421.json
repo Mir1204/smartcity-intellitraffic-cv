@@ -1,0 +1,7842 @@
+{
+  "session_info": {
+    "start_time": "2026-01-26T23:34:21.185351",
+    "total_frames": 601,
+    "frame_dimensions": "1280x720",
+    "lane_setup": {
+      "Left": [
+        0,
+        240,
+        426,
+        720
+      ],
+      "Center": [
+        426,
+        240,
+        852,
+        720
+      ],
+      "Right": [
+        852,
+        240,
+        1280,
+        720
+      ]
+    }
+  },
+  "tracking_data": [
+    {
+      "timestamp": "2026-01-26T23:34:21.368473",
+      "frame_number": 1,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 0.183122
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.017620",
+      "frame_number": 2,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 2,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 4.832269
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.058254",
+      "frame_number": 3,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 4.872903
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.093038",
+      "frame_number": 4,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 4.907687
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.118099",
+      "frame_number": 5,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 5,
+      "total_tracks_seen": 5,
+      "session_elapsed": 4.932748
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.161035",
+      "frame_number": 6,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "active_tracks": 5,
+      "total_tracks_seen": 5,
+      "session_elapsed": 4.975684
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.206009",
+      "frame_number": 7,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 5.020658
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.243699",
+      "frame_number": 8,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 5.058348
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.276380",
+      "frame_number": 9,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 5.091029
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.311022",
+      "frame_number": 10,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 5.125671
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.355166",
+      "frame_number": 11,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 5.169815
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.391515",
+      "frame_number": 12,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 5.206164
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.421601",
+      "frame_number": 13,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 8,
+      "session_elapsed": 5.23625
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.453031",
+      "frame_number": 14,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 8,
+      "session_elapsed": 5.26768
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.493309",
+      "frame_number": 15,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 8,
+      "session_elapsed": 5.307958
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.535416",
+      "frame_number": 16,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.350065
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.573479",
+      "frame_number": 17,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.388128
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.614496",
+      "frame_number": 18,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.429145
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.643171",
+      "frame_number": 19,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.45782
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.676602",
+      "frame_number": 20,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.491251
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.705597",
+      "frame_number": 21,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.520246
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.732298",
+      "frame_number": 22,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.546947
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.760057",
+      "frame_number": 23,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.574706
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.792239",
+      "frame_number": 24,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.606888
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.826652",
+      "frame_number": 25,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.641301
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.859380",
+      "frame_number": 26,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.674029
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.892530",
+      "frame_number": 27,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.707179
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.927015",
+      "frame_number": 28,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.741664
+    },
+    {
+      "timestamp": "2026-01-26T23:34:26.959668",
+      "frame_number": 29,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.774317
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.008152",
+      "frame_number": 30,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.822801
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.058370",
+      "frame_number": 31,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.873019
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.103583",
+      "frame_number": 32,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.918232
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.158859",
+      "frame_number": 33,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 5.973508
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.192875",
+      "frame_number": 34,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.007524
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.226592",
+      "frame_number": 35,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.041241
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.258689",
+      "frame_number": 36,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.073338
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.294059",
+      "frame_number": 37,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.108708
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.323233",
+      "frame_number": 38,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.137882
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.360565",
+      "frame_number": 39,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.175214
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.386966",
+      "frame_number": 40,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.201615
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.418073",
+      "frame_number": 41,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.232722
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.458181",
+      "frame_number": 42,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.27283
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.508278",
+      "frame_number": 43,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.322927
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.540261",
+      "frame_number": 44,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.35491
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.572451",
+      "frame_number": 45,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.3871
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.605252",
+      "frame_number": 46,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.419901
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.642933",
+      "frame_number": 47,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.457582
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.676591",
+      "frame_number": 48,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.49124
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.708163",
+      "frame_number": 49,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.522812
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.742725",
+      "frame_number": 50,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.557374
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.762245",
+      "frame_number": 51,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.576894
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.792435",
+      "frame_number": 52,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.607084
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.826515",
+      "frame_number": 53,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.641164
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.858776",
+      "frame_number": 54,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.673425
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.908323",
+      "frame_number": 55,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.722972
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.947411",
+      "frame_number": 56,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.76206
+    },
+    {
+      "timestamp": "2026-01-26T23:34:27.987552",
+      "frame_number": 57,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.802201
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.020119",
+      "frame_number": 58,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.834768
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.059232",
+      "frame_number": 59,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.873881
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.091916",
+      "frame_number": 60,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.906565
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.122461",
+      "frame_number": 61,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.93711
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.149196",
+      "frame_number": 62,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.963845
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.177872",
+      "frame_number": 63,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 6.992521
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.203036",
+      "frame_number": 64,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.017685
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.241884",
+      "frame_number": 65,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.056533
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.272706",
+      "frame_number": 66,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.087355
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.301300",
+      "frame_number": 67,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.115949
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.337797",
+      "frame_number": 68,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.152446
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.377316",
+      "frame_number": 69,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.191965
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.417383",
+      "frame_number": 70,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.232032
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.456686",
+      "frame_number": 71,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.271335
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.492053",
+      "frame_number": 72,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.306702
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.526773",
+      "frame_number": 73,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.341422
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.564883",
+      "frame_number": 74,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.379532
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.607322",
+      "frame_number": 75,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.421971
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.658157",
+      "frame_number": 76,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.472806
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.693858",
+      "frame_number": 77,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.508507
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.730717",
+      "frame_number": 78,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.545366
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.768097",
+      "frame_number": 79,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.582746
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.808369",
+      "frame_number": 80,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.623018
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.853324",
+      "frame_number": 81,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.667973
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.892122",
+      "frame_number": 82,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.706771
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.938616",
+      "frame_number": 83,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.753265
+    },
+    {
+      "timestamp": "2026-01-26T23:34:28.992754",
+      "frame_number": 84,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.807403
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.026471",
+      "frame_number": 85,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.84112
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.066063",
+      "frame_number": 86,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.880712
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.108114",
+      "frame_number": 87,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.922763
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.143003",
+      "frame_number": 88,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 8,
+      "total_tracks_seen": 10,
+      "session_elapsed": 7.957652
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.188903",
+      "frame_number": 89,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 8,
+      "total_tracks_seen": 10,
+      "session_elapsed": 8.003552
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.237528",
+      "frame_number": 90,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 10,
+      "session_elapsed": 8.052177
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.277254",
+      "frame_number": 91,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 10,
+      "session_elapsed": 8.091903
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.326869",
+      "frame_number": 92,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 10,
+      "session_elapsed": 8.141518
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.368854",
+      "frame_number": 93,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 9,
+      "total_tracks_seen": 11,
+      "session_elapsed": 8.183503
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.408626",
+      "frame_number": 94,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.223275
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.462681",
+      "frame_number": 95,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.27733
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.503831",
+      "frame_number": 96,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.31848
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.541962",
+      "frame_number": 97,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.356611
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.588010",
+      "frame_number": 98,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.402659
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.641625",
+      "frame_number": 99,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.456274
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.689830",
+      "frame_number": 100,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.504479
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.737037",
+      "frame_number": 101,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.551686
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.771378",
+      "frame_number": 102,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.586027
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.804626",
+      "frame_number": 103,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.619275
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.842919",
+      "frame_number": 104,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.657568
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.885147",
+      "frame_number": 105,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.699796
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.925153",
+      "frame_number": 106,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.739802
+    },
+    {
+      "timestamp": "2026-01-26T23:34:29.969814",
+      "frame_number": 107,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.784463
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.008156",
+      "frame_number": 108,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.822805
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.058648",
+      "frame_number": 109,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.873297
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.100982",
+      "frame_number": 110,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.915631
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.139162",
+      "frame_number": 111,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 8.953811
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.191260",
+      "frame_number": 112,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.005909
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.240207",
+      "frame_number": 113,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.054856
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.293051",
+      "frame_number": 114,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.1077
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.338608",
+      "frame_number": 115,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.153257
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.387348",
+      "frame_number": 116,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.201997
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.426809",
+      "frame_number": 117,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.241458
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.468933",
+      "frame_number": 118,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.283582
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.518997",
+      "frame_number": 119,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.333646
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.575251",
+      "frame_number": 120,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.3899
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.608141",
+      "frame_number": 121,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.42279
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.661139",
+      "frame_number": 122,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.475788
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.702884",
+      "frame_number": 123,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.517533
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.758747",
+      "frame_number": 124,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.573396
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.802717",
+      "frame_number": 125,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.617366
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.858138",
+      "frame_number": 126,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.672787
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.908103",
+      "frame_number": 127,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.722752
+    },
+    {
+      "timestamp": "2026-01-26T23:34:30.949944",
+      "frame_number": 128,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.764593
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.002846",
+      "frame_number": 129,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.817495
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.058111",
+      "frame_number": 130,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.87276
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.108168",
+      "frame_number": 131,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.922817
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.146745",
+      "frame_number": 132,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 9.961394
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.185844",
+      "frame_number": 133,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.000493
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.237861",
+      "frame_number": 134,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.05251
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.291905",
+      "frame_number": 135,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.106554
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.339137",
+      "frame_number": 136,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.153786
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.394001",
+      "frame_number": 137,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.20865
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.441513",
+      "frame_number": 138,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.256162
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.489135",
+      "frame_number": 139,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.303784
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.537516",
+      "frame_number": 140,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 8,
+      "total_tracks_seen": 12,
+      "session_elapsed": 10.352165
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.584254",
+      "frame_number": 141,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.398903
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.618491",
+      "frame_number": 142,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.43314
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.667919",
+      "frame_number": 143,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.482568
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.706605",
+      "frame_number": 144,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.521254
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.758204",
+      "frame_number": 145,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.572853
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.804580",
+      "frame_number": 146,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.619229
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.858193",
+      "frame_number": 147,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.672842
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.894844",
+      "frame_number": 148,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.709493
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.942595",
+      "frame_number": 149,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.757244
+    },
+    {
+      "timestamp": "2026-01-26T23:34:31.988670",
+      "frame_number": 150,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.803319
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.041475",
+      "frame_number": 151,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.856124
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.085183",
+      "frame_number": 152,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.899832
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.142019",
+      "frame_number": 153,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 10.956668
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.189080",
+      "frame_number": 154,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.003729
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.233133",
+      "frame_number": 155,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.047782
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.271565",
+      "frame_number": 156,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.086214
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.311531",
+      "frame_number": 157,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.12618
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.354014",
+      "frame_number": 158,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.168663
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.393048",
+      "frame_number": 159,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.207697
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.443019",
+      "frame_number": 160,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.257668
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.492767",
+      "frame_number": 161,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.307416
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.527298",
+      "frame_number": 162,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.341947
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.567411",
+      "frame_number": 163,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.38206
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.607734",
+      "frame_number": 164,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.422383
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.658216",
+      "frame_number": 165,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.472865
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.701152",
+      "frame_number": 166,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.515801
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.744148",
+      "frame_number": 167,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.558797
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.793065",
+      "frame_number": 168,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.607714
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.838923",
+      "frame_number": 169,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.653572
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.887781",
+      "frame_number": 170,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.70243
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.926385",
+      "frame_number": 171,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.741034
+    },
+    {
+      "timestamp": "2026-01-26T23:34:32.970137",
+      "frame_number": 172,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.784786
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.024947",
+      "frame_number": 173,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.839596
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.073947",
+      "frame_number": 174,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.888596
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.111452",
+      "frame_number": 175,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.926101
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.168277",
+      "frame_number": 176,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 11.982926
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.209875",
+      "frame_number": 177,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.024524
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.257996",
+      "frame_number": 178,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.072645
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.301458",
+      "frame_number": 179,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.116107
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.353471",
+      "frame_number": 180,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.16812
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.409408",
+      "frame_number": 181,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.224057
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.452329",
+      "frame_number": 182,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.266978
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.494674",
+      "frame_number": 183,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.309323
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.541819",
+      "frame_number": 184,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.356468
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.582378",
+      "frame_number": 185,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.397027
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.621783",
+      "frame_number": 186,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 8,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.436432
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.675986",
+      "frame_number": 187,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 8,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.490635
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.720138",
+      "frame_number": 188,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 8,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.534787
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.761482",
+      "frame_number": 189,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 8,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.576131
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.804630",
+      "frame_number": 190,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 8,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.619279
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.842866",
+      "frame_number": 191,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.657515
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.891389",
+      "frame_number": 192,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.706038
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.935229",
+      "frame_number": 193,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.749878
+    },
+    {
+      "timestamp": "2026-01-26T23:34:33.985258",
+      "frame_number": 194,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.799907
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.026180",
+      "frame_number": 195,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.840829
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.068571",
+      "frame_number": 196,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.88322
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.118447",
+      "frame_number": 197,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.933096
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.150970",
+      "frame_number": 198,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 12.965619
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.195360",
+      "frame_number": 199,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.010009
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.235684",
+      "frame_number": 200,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.050333
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.278519",
+      "frame_number": 201,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.093168
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.326691",
+      "frame_number": 202,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.14134
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.367813",
+      "frame_number": 203,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.182462
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.407977",
+      "frame_number": 204,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.222626
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.458211",
+      "frame_number": 205,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.27286
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.498424",
+      "frame_number": 206,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.313073
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.535156",
+      "frame_number": 207,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.349805
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.590305",
+      "frame_number": 208,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.404954
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.637049",
+      "frame_number": 209,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.451698
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.687886",
+      "frame_number": 210,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.502535
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.735270",
+      "frame_number": 211,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.549919
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.785166",
+      "frame_number": 212,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.599815
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.826671",
+      "frame_number": 213,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.64132
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.863008",
+      "frame_number": 214,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.677657
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.907019",
+      "frame_number": 215,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.721668
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.948623",
+      "frame_number": 216,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.763272
+    },
+    {
+      "timestamp": "2026-01-26T23:34:34.985383",
+      "frame_number": 217,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.800032
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.026310",
+      "frame_number": 218,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.840959
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.067978",
+      "frame_number": 219,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.882627
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.108117",
+      "frame_number": 220,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.922766
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.149952",
+      "frame_number": 221,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 13.964601
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.194622",
+      "frame_number": 222,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 14.009271
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.241412",
+      "frame_number": 223,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 14.056061
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.291587",
+      "frame_number": 224,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 7,
+      "total_tracks_seen": 13,
+      "session_elapsed": 14.106236
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.338646",
+      "frame_number": 225,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 14,
+      "session_elapsed": 14.153295
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.388436",
+      "frame_number": 226,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 8,
+      "total_tracks_seen": 14,
+      "session_elapsed": 14.203085
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.432989",
+      "frame_number": 227,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 8,
+      "total_tracks_seen": 14,
+      "session_elapsed": 14.247638
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.477144",
+      "frame_number": 228,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 8,
+      "total_tracks_seen": 14,
+      "session_elapsed": 14.291793
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.520202",
+      "frame_number": 229,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.334851
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.567991",
+      "frame_number": 230,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.38264
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.606519",
+      "frame_number": 231,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.421168
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.659292",
+      "frame_number": 232,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.473941
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.701241",
+      "frame_number": 233,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.51589
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.754684",
+      "frame_number": 234,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.569333
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.808045",
+      "frame_number": 235,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.622694
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.858161",
+      "frame_number": 236,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.67281
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.906829",
+      "frame_number": 237,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.721478
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.947262",
+      "frame_number": 238,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.761911
+    },
+    {
+      "timestamp": "2026-01-26T23:34:35.987818",
+      "frame_number": 239,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.802467
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.041347",
+      "frame_number": 240,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.855996
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.093348",
+      "frame_number": 241,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 9,
+      "total_tracks_seen": 15,
+      "session_elapsed": 14.907997
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.143111",
+      "frame_number": 242,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 16,
+      "session_elapsed": 14.95776
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.190418",
+      "frame_number": 243,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 16,
+      "session_elapsed": 15.005067
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.235924",
+      "frame_number": 244,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 3
+      },
+      "total_vehicles": 12,
+      "active_tracks": 12,
+      "total_tracks_seen": 18,
+      "session_elapsed": 15.050573
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.276519",
+      "frame_number": 245,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 4
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 18,
+      "session_elapsed": 15.091168
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.318401",
+      "frame_number": 246,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 4
+      },
+      "total_vehicles": 11,
+      "active_tracks": 12,
+      "total_tracks_seen": 18,
+      "session_elapsed": 15.13305
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.363966",
+      "frame_number": 247,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 6
+      },
+      "total_vehicles": 13,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.178615
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.408216",
+      "frame_number": 248,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 4
+      },
+      "total_vehicles": 11,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.222865
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.451597",
+      "frame_number": 249,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 9,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.266246
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.492721",
+      "frame_number": 250,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 9,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.30737
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.536490",
+      "frame_number": 251,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.351139
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.590291",
+      "frame_number": 252,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.40494
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.641342",
+      "frame_number": 253,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 4
+      },
+      "total_vehicles": 13,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.455991
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.691375",
+      "frame_number": 254,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 4
+      },
+      "total_vehicles": 12,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.506024
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.739089",
+      "frame_number": 255,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 9,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.553738
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.789545",
+      "frame_number": 256,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 5
+      },
+      "total_vehicles": 11,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.604194
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.837510",
+      "frame_number": 257,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 5
+      },
+      "total_vehicles": 12,
+      "active_tracks": 13,
+      "total_tracks_seen": 19,
+      "session_elapsed": 15.652159
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.877056",
+      "frame_number": 258,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 6
+      },
+      "total_vehicles": 14,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.691705
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.917754",
+      "frame_number": 259,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 6
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.732403
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.958113",
+      "frame_number": 260,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 5
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.772762
+    },
+    {
+      "timestamp": "2026-01-26T23:34:36.993573",
+      "frame_number": 261,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 5
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.808222
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.041544",
+      "frame_number": 262,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 6
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.856193
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.083560",
+      "frame_number": 263,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.898209
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.122111",
+      "frame_number": 264,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.93676
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.171203",
+      "frame_number": 265,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 15.985852
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.217177",
+      "frame_number": 266,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 3
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.031826
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.258047",
+      "frame_number": 267,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.072696
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.307995",
+      "frame_number": 268,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 3
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.122644
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.358376",
+      "frame_number": 269,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.173025
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.395709",
+      "frame_number": 270,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.210358
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.442556",
+      "frame_number": 271,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.257205
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.492823",
+      "frame_number": 272,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.307472
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.536027",
+      "frame_number": 273,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.350676
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.576631",
+      "frame_number": 274,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.39128
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.623006",
+      "frame_number": 275,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.437655
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.660623",
+      "frame_number": 276,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.475272
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.702725",
+      "frame_number": 277,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.517374
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.741232",
+      "frame_number": 278,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.555881
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.787600",
+      "frame_number": 279,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.602249
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.841284",
+      "frame_number": 280,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.655933
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.888826",
+      "frame_number": 281,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.703475
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.942431",
+      "frame_number": 282,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.75708
+    },
+    {
+      "timestamp": "2026-01-26T23:34:37.991507",
+      "frame_number": 283,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 20,
+      "session_elapsed": 16.806156
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.026923",
+      "frame_number": 284,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "active_tracks": 15,
+      "total_tracks_seen": 21,
+      "session_elapsed": 16.841572
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.071284",
+      "frame_number": 285,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "active_tracks": 15,
+      "total_tracks_seen": 21,
+      "session_elapsed": 16.885933
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.117582",
+      "frame_number": 286,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 16.932231
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.156497",
+      "frame_number": 287,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 16.971146
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.195655",
+      "frame_number": 288,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.010304
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.241884",
+      "frame_number": 289,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.056533
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.291307",
+      "frame_number": 290,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.105956
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.341967",
+      "frame_number": 291,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.156616
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.378279",
+      "frame_number": 292,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.192928
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.421348",
+      "frame_number": 293,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.235997
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.467671",
+      "frame_number": 294,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.28232
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.515250",
+      "frame_number": 295,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.329899
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.573075",
+      "frame_number": 296,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.387724
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.610681",
+      "frame_number": 297,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.42533
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.660048",
+      "frame_number": 298,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.474697
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.701156",
+      "frame_number": 299,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.515805
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.753329",
+      "frame_number": 300,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.567978
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.798781",
+      "frame_number": 301,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 13,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.61343
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.846151",
+      "frame_number": 302,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 12,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.6608
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.889420",
+      "frame_number": 303,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.704069
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.942584",
+      "frame_number": 304,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.757233
+    },
+    {
+      "timestamp": "2026-01-26T23:34:38.990335",
+      "frame_number": 305,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.804984
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.029986",
+      "frame_number": 306,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.844635
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.084240",
+      "frame_number": 307,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.898889
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.127009",
+      "frame_number": 308,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.941658
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.173156",
+      "frame_number": 309,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 17.987805
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.210592",
+      "frame_number": 310,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 14,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.025241
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.253616",
+      "frame_number": 311,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 15,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.068265
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.299112",
+      "frame_number": 312,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.113761
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.350573",
+      "frame_number": 313,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 14,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.165222
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.405563",
+      "frame_number": 314,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 15,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.220212
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.452963",
+      "frame_number": 315,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 12,
+        "Right": 1
+      },
+      "total_vehicles": 16,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.267612
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.507829",
+      "frame_number": 316,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 14,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.322478
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.567770",
+      "frame_number": 317,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.382419
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.607863",
+      "frame_number": 318,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.422512
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.657995",
+      "frame_number": 319,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.472644
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.707245",
+      "frame_number": 320,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.521894
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.745215",
+      "frame_number": 321,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.559864
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.791583",
+      "frame_number": 322,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.606232
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.837196",
+      "frame_number": 323,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.651845
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.883943",
+      "frame_number": 324,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.698592
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.939386",
+      "frame_number": 325,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.754035
+    },
+    {
+      "timestamp": "2026-01-26T23:34:39.986778",
+      "frame_number": 326,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.801427
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.036846",
+      "frame_number": 327,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.851495
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.075755",
+      "frame_number": 328,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.890404
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.119279",
+      "frame_number": 329,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.933928
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.157253",
+      "frame_number": 330,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 18.971902
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.206225",
+      "frame_number": 331,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.020874
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.258085",
+      "frame_number": 332,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.072734
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.303501",
+      "frame_number": 333,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.11815
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.341201",
+      "frame_number": 334,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.15585
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.391579",
+      "frame_number": 335,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.206228
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.441771",
+      "frame_number": 336,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.25642
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.487394",
+      "frame_number": 337,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.302043
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.520797",
+      "frame_number": 338,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.335446
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.569108",
+      "frame_number": 339,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.383757
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.611430",
+      "frame_number": 340,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.426079
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.653740",
+      "frame_number": 341,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.468389
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.692978",
+      "frame_number": 342,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.507627
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.738440",
+      "frame_number": 343,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.553089
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.776091",
+      "frame_number": 344,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.59074
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.817831",
+      "frame_number": 345,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.63248
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.867761",
+      "frame_number": 346,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.68241
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.908118",
+      "frame_number": 347,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.722767
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.943495",
+      "frame_number": 348,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.758144
+    },
+    {
+      "timestamp": "2026-01-26T23:34:40.992873",
+      "frame_number": 349,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.807522
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.034389",
+      "frame_number": 350,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.849038
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.076102",
+      "frame_number": 351,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.890751
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.114897",
+      "frame_number": 352,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.929546
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.156373",
+      "frame_number": 353,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 19.971022
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.202949",
+      "frame_number": 354,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.017598
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.250688",
+      "frame_number": 355,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.065337
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.302504",
+      "frame_number": 356,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.117153
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.341899",
+      "frame_number": 357,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.156548
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.390013",
+      "frame_number": 358,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.204662
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.435107",
+      "frame_number": 359,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 11,
+      "active_tracks": 16,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.249756
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.486471",
+      "frame_number": 360,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 14,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.30112
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.553362",
+      "frame_number": 361,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.368011
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.602073",
+      "frame_number": 362,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.416722
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.650472",
+      "frame_number": 363,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.465121
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.692714",
+      "frame_number": 364,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.507363
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.738024",
+      "frame_number": 365,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 3
+      },
+      "total_vehicles": 12,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.552673
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.788268",
+      "frame_number": 366,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.602917
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.837840",
+      "frame_number": 367,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.652489
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.882931",
+      "frame_number": 368,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 12,
+      "total_tracks_seen": 22,
+      "session_elapsed": 20.69758
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.926404",
+      "frame_number": 369,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 13,
+      "total_tracks_seen": 23,
+      "session_elapsed": 20.741053
+    },
+    {
+      "timestamp": "2026-01-26T23:34:41.967893",
+      "frame_number": 370,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 13,
+      "total_tracks_seen": 23,
+      "session_elapsed": 20.782542
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.008512",
+      "frame_number": 371,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 20.823161
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.057830",
+      "frame_number": 372,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 20.872479
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.108914",
+      "frame_number": 373,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 20.923563
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.148009",
+      "frame_number": 374,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 20.962658
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.194301",
+      "frame_number": 375,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.00895
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.249404",
+      "frame_number": 376,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.064053
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.296567",
+      "frame_number": 377,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.111216
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.341665",
+      "frame_number": 378,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.156314
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.385602",
+      "frame_number": 379,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.200251
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.426126",
+      "frame_number": 380,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.240775
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.472091",
+      "frame_number": 381,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.28674
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.515145",
+      "frame_number": 382,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.329794
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.558594",
+      "frame_number": 383,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.373243
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.601422",
+      "frame_number": 384,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.416071
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.638343",
+      "frame_number": 385,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.452992
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.683816",
+      "frame_number": 386,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.498465
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.717422",
+      "frame_number": 387,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.532071
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.756822",
+      "frame_number": 388,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.571471
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.808961",
+      "frame_number": 389,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.62361
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.850419",
+      "frame_number": 390,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.665068
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.906878",
+      "frame_number": 391,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.721527
+    },
+    {
+      "timestamp": "2026-01-26T23:34:42.952702",
+      "frame_number": 392,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.767351
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.000821",
+      "frame_number": 393,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.81547
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.042712",
+      "frame_number": 394,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.857361
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.089021",
+      "frame_number": 395,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.90367
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.130431",
+      "frame_number": 396,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.94508
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.164920",
+      "frame_number": 397,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 21.979569
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.207848",
+      "frame_number": 398,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.022497
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.257705",
+      "frame_number": 399,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.072354
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.309414",
+      "frame_number": 400,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.124063
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.359857",
+      "frame_number": 401,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.174506
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.406831",
+      "frame_number": 402,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.22148
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.453688",
+      "frame_number": 403,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.268337
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.492810",
+      "frame_number": 404,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.307459
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.542135",
+      "frame_number": 405,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.356784
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.586392",
+      "frame_number": 406,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.401041
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.626658",
+      "frame_number": 407,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.441307
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.669226",
+      "frame_number": 408,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.483875
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.715792",
+      "frame_number": 409,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.530441
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.756801",
+      "frame_number": 410,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.57145
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.793263",
+      "frame_number": 411,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.607912
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.835687",
+      "frame_number": 412,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.650336
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.876116",
+      "frame_number": 413,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 0
+      },
+      "total_vehicles": 9,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.690765
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.917658",
+      "frame_number": 414,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.732307
+    },
+    {
+      "timestamp": "2026-01-26T23:34:43.957449",
+      "frame_number": 415,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "active_tracks": 14,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.772098
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.007612",
+      "frame_number": 416,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.822261
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.056480",
+      "frame_number": 417,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.871129
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.107966",
+      "frame_number": 418,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.922615
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.155962",
+      "frame_number": 419,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 22.970611
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.199409",
+      "frame_number": 420,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.014058
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.254790",
+      "frame_number": 421,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.069439
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.301332",
+      "frame_number": 422,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.115981
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.341677",
+      "frame_number": 423,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.156326
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.388771",
+      "frame_number": 424,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.20342
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.438804",
+      "frame_number": 425,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.253453
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.487830",
+      "frame_number": 426,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.302479
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.535324",
+      "frame_number": 427,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.349973
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.591182",
+      "frame_number": 428,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.405831
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.638440",
+      "frame_number": 429,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.453089
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.684909",
+      "frame_number": 430,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.499558
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.726337",
+      "frame_number": 431,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.540986
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.764347",
+      "frame_number": 432,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.578996
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.806244",
+      "frame_number": 433,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.620893
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.852985",
+      "frame_number": 434,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.667634
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.903020",
+      "frame_number": 435,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.717669
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.942627",
+      "frame_number": 436,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.757276
+    },
+    {
+      "timestamp": "2026-01-26T23:34:44.981235",
+      "frame_number": 437,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.795884
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.026065",
+      "frame_number": 438,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.840714
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.059095",
+      "frame_number": 439,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.873744
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.108633",
+      "frame_number": 440,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.923282
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.151822",
+      "frame_number": 441,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 23.966471
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.205596",
+      "frame_number": 442,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.020245
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.251230",
+      "frame_number": 443,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.065879
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.292405",
+      "frame_number": 444,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.107054
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.334813",
+      "frame_number": 445,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.149462
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.389481",
+      "frame_number": 446,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.20413
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.425925",
+      "frame_number": 447,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.240574
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.468040",
+      "frame_number": 448,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.282689
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.506037",
+      "frame_number": 449,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 13,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.320686
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.542969",
+      "frame_number": 450,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 11,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.357618
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.604360",
+      "frame_number": 451,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.419009
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.651583",
+      "frame_number": 452,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.466232
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.692327",
+      "frame_number": 453,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.506976
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.729778",
+      "frame_number": 454,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.544427
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.767895",
+      "frame_number": 455,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 10,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.582544
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.806819",
+      "frame_number": 456,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.621468
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.856659",
+      "frame_number": 457,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 9,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.671308
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.907612",
+      "frame_number": 458,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 8,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.722261
+    },
+    {
+      "timestamp": "2026-01-26T23:34:45.957625",
+      "frame_number": 459,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 8,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.772274
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.006021",
+      "frame_number": 460,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 8,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.82067
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.051417",
+      "frame_number": 461,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 8,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.866066
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.089583",
+      "frame_number": 462,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 8,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.904232
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.134161",
+      "frame_number": 463,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 8,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.94881
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.170643",
+      "frame_number": 464,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 7,
+      "total_tracks_seen": 24,
+      "session_elapsed": 24.985292
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.219899",
+      "frame_number": 465,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "active_tracks": 7,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.034548
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.273311",
+      "frame_number": 466,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 7,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.08796
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.311120",
+      "frame_number": 467,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 7,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.125769
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.368025",
+      "frame_number": 468,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 6,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.182674
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.408752",
+      "frame_number": 469,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 6,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.223401
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.457709",
+      "frame_number": 470,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "active_tracks": 6,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.272358
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.506289",
+      "frame_number": 471,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "active_tracks": 6,
+      "total_tracks_seen": 24,
+      "session_elapsed": 25.320938
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.556340",
+      "frame_number": 472,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 25,
+      "session_elapsed": 25.370989
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.607808",
+      "frame_number": 473,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 25,
+      "session_elapsed": 25.422457
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.654228",
+      "frame_number": 474,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 7,
+      "total_tracks_seen": 25,
+      "session_elapsed": 25.468877
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.707292",
+      "frame_number": 475,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.521941
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.761287",
+      "frame_number": 476,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.575936
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.804527",
+      "frame_number": 477,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.619176
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.842797",
+      "frame_number": 478,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.657446
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.889628",
+      "frame_number": 479,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.704277
+    },
+    {
+      "timestamp": "2026-01-26T23:34:46.939631",
+      "frame_number": 480,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.75428
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.003381",
+      "frame_number": 481,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.81803
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.036911",
+      "frame_number": 482,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.85156
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.091628",
+      "frame_number": 483,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.906277
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.142398",
+      "frame_number": 484,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 25.957047
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.189277",
+      "frame_number": 485,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.003926
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.236514",
+      "frame_number": 486,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.051163
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.283841",
+      "frame_number": 487,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.09849
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.324609",
+      "frame_number": 488,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.139258
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.367562",
+      "frame_number": 489,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 4
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.182211
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.406912",
+      "frame_number": 490,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 4
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.221561
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.458315",
+      "frame_number": 491,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.272964
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.507731",
+      "frame_number": 492,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.32238
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.556945",
+      "frame_number": 493,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.371594
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.595817",
+      "frame_number": 494,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.410466
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.659343",
+      "frame_number": 495,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.473992
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.699898",
+      "frame_number": 496,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.514547
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.741062",
+      "frame_number": 497,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.555711
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.782830",
+      "frame_number": 498,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.597479
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.825704",
+      "frame_number": 499,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.640353
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.867640",
+      "frame_number": 500,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.682289
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.907725",
+      "frame_number": 501,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.722374
+    },
+    {
+      "timestamp": "2026-01-26T23:34:47.958044",
+      "frame_number": 502,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.772693
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.003778",
+      "frame_number": 503,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.818427
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.042714",
+      "frame_number": 504,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.857363
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.092438",
+      "frame_number": 505,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.907087
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.142322",
+      "frame_number": 506,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 26.956971
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.193723",
+      "frame_number": 507,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.008372
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.241383",
+      "frame_number": 508,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.056032
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.291532",
+      "frame_number": 509,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.106181
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.342177",
+      "frame_number": 510,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.156826
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.407747",
+      "frame_number": 511,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.222396
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.451930",
+      "frame_number": 512,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.266579
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.507823",
+      "frame_number": 513,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.322472
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.557698",
+      "frame_number": 514,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.372347
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.606392",
+      "frame_number": 515,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.421041
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.656162",
+      "frame_number": 516,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.470811
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.708373",
+      "frame_number": 517,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.523022
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.748173",
+      "frame_number": 518,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.562822
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.792758",
+      "frame_number": 519,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.607407
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.842513",
+      "frame_number": 520,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.657162
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.892638",
+      "frame_number": 521,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.707287
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.941293",
+      "frame_number": 522,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.755942
+    },
+    {
+      "timestamp": "2026-01-26T23:34:48.975681",
+      "frame_number": 523,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.79033
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.019876",
+      "frame_number": 524,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.834525
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.057629",
+      "frame_number": 525,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.872278
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.105692",
+      "frame_number": 526,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.920341
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.156689",
+      "frame_number": 527,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 27.971338
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.206652",
+      "frame_number": 528,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 28.021301
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.240961",
+      "frame_number": 529,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 28.05561
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.305695",
+      "frame_number": 530,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 28.120344
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.357748",
+      "frame_number": 531,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 28,
+      "session_elapsed": 28.172397
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.405695",
+      "frame_number": 532,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 9,
+      "total_tracks_seen": 28,
+      "session_elapsed": 28.220344
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.442475",
+      "frame_number": 533,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.257124
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.477229",
+      "frame_number": 534,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.291878
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.516998",
+      "frame_number": 535,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.331647
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.564668",
+      "frame_number": 536,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.379317
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.606710",
+      "frame_number": 537,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.421359
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.657643",
+      "frame_number": 538,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.472292
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.702985",
+      "frame_number": 539,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.517634
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.742761",
+      "frame_number": 540,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.55741
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.795241",
+      "frame_number": 541,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.60989
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.852407",
+      "frame_number": 542,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 10,
+      "total_tracks_seen": 29,
+      "session_elapsed": 28.667056
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.902410",
+      "frame_number": 543,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 11,
+      "total_tracks_seen": 30,
+      "session_elapsed": 28.717059
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.941407",
+      "frame_number": 544,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 28.756056
+    },
+    {
+      "timestamp": "2026-01-26T23:34:49.992388",
+      "frame_number": 545,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 28.807037
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.042723",
+      "frame_number": 546,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 28.857372
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.089076",
+      "frame_number": 547,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 28.903725
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.138978",
+      "frame_number": 548,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 28.953627
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.192664",
+      "frame_number": 549,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.007313
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.233919",
+      "frame_number": 550,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.048568
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.274320",
+      "frame_number": 551,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.088969
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.339351",
+      "frame_number": 552,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.154
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.384215",
+      "frame_number": 553,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.198864
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.425769",
+      "frame_number": 554,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.240418
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.475748",
+      "frame_number": 555,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.290397
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.515400",
+      "frame_number": 556,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.330049
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.573597",
+      "frame_number": 557,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.388246
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.610923",
+      "frame_number": 558,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.425572
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.655657",
+      "frame_number": 559,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.470306
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.706436",
+      "frame_number": 560,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.521085
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.757914",
+      "frame_number": 561,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.572563
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.807800",
+      "frame_number": 562,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.622449
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.857586",
+      "frame_number": 563,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.672235
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.907725",
+      "frame_number": 564,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.722374
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.947285",
+      "frame_number": 565,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.761934
+    },
+    {
+      "timestamp": "2026-01-26T23:34:50.984465",
+      "frame_number": 566,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.799114
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.026479",
+      "frame_number": 567,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.841128
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.070857",
+      "frame_number": 568,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.885506
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.124420",
+      "frame_number": 569,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.939069
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.167423",
+      "frame_number": 570,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 29.982072
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.242692",
+      "frame_number": 571,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.057341
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.292688",
+      "frame_number": 572,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.107337
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.334552",
+      "frame_number": 573,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.149201
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.375582",
+      "frame_number": 574,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.190231
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.414792",
+      "frame_number": 575,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.229441
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.459533",
+      "frame_number": 576,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.274182
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.504506",
+      "frame_number": 577,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.319155
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.550548",
+      "frame_number": 578,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.365197
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.586508",
+      "frame_number": 579,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.401157
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.641426",
+      "frame_number": 580,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.456075
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.688566",
+      "frame_number": 581,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.503215
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.736241",
+      "frame_number": 582,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.55089
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.778460",
+      "frame_number": 583,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.593109
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.814656",
+      "frame_number": 584,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.629305
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.856263",
+      "frame_number": 585,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.670912
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.901984",
+      "frame_number": 586,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.716633
+    },
+    {
+      "timestamp": "2026-01-26T23:34:51.954318",
+      "frame_number": 587,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.768967
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.007665",
+      "frame_number": 588,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 12,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.822314
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.056091",
+      "frame_number": 589,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 11,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.87074
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.107628",
+      "frame_number": 590,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 11,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.922277
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.155337",
+      "frame_number": 591,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 30.969986
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.207617",
+      "frame_number": 592,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.022266
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.249901",
+      "frame_number": 593,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.06455
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.303008",
+      "frame_number": 594,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.117657
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.350371",
+      "frame_number": 595,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.16502
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.392369",
+      "frame_number": 596,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.207018
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.441452",
+      "frame_number": 597,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 10,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.256101
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.490990",
+      "frame_number": 598,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.305639
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.537533",
+      "frame_number": 599,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "active_tracks": 9,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.352182
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.588179",
+      "frame_number": 600,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.402828
+    },
+    {
+      "timestamp": "2026-01-26T23:34:52.657997",
+      "frame_number": 601,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "active_tracks": 9,
+      "total_tracks_seen": 31,
+      "session_elapsed": 31.472646
+    }
+  ]
+}

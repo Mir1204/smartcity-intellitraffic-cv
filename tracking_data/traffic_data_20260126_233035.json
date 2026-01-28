@@ -1,0 +1,6640 @@
+{
+  "session_info": {
+    "start_time": "2026-01-26T23:30:35.446989",
+    "total_frames": 601,
+    "frame_dimensions": "1280x720",
+    "lane_setup": {
+      "Left": [
+        0,
+        240,
+        426,
+        720
+      ],
+      "Center": [
+        426,
+        240,
+        852,
+        720
+      ],
+      "Right": [
+        852,
+        240,
+        1280,
+        720
+      ]
+    }
+  },
+  "tracking_data": [
+    {
+      "timestamp": "2026-01-26T23:30:35.630305",
+      "frame_number": 1,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 0.183316
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.027407",
+      "frame_number": 2,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 2,
+      "session_elapsed": 0.580418
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.044307",
+      "frame_number": 3,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 0.597318
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.064150",
+      "frame_number": 4,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 0.617161
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.080781",
+      "frame_number": 5,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 0.633792
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.100595",
+      "frame_number": 6,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 0.653606
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.114256",
+      "frame_number": 7,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.667267
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.147959",
+      "frame_number": 8,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 0.70097
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.164141",
+      "frame_number": 9,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 0.717152
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.180974",
+      "frame_number": 10,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.733985
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.197682",
+      "frame_number": 11,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.750693
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.214396",
+      "frame_number": 12,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 0.767407
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.231326",
+      "frame_number": 13,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 0.784337
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.249454",
+      "frame_number": 14,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 0.802465
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.280883",
+      "frame_number": 15,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 0.833894
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.297699",
+      "frame_number": 16,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 0.85071
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.314287",
+      "frame_number": 17,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 0.867298
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.331179",
+      "frame_number": 18,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.88419
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.347184",
+      "frame_number": 19,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.900195
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.364189",
+      "frame_number": 20,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 0.9172
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.380938",
+      "frame_number": 21,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.933949
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.397780",
+      "frame_number": 22,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.950791
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.414240",
+      "frame_number": 23,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.967251
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.430866",
+      "frame_number": 24,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 0.983877
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.447359",
+      "frame_number": 25,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.00037
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.464318",
+      "frame_number": 26,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 1.017329
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.480941",
+      "frame_number": 27,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 1.033952
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.497598",
+      "frame_number": 28,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.050609
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.514261",
+      "frame_number": 29,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.067272
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.540329",
+      "frame_number": 30,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.09334
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.576185",
+      "frame_number": 31,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.129196
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.605375",
+      "frame_number": 32,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 1.158386
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.626158",
+      "frame_number": 33,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.179169
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.647418",
+      "frame_number": 34,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 1.200429
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.673822",
+      "frame_number": 35,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.226833
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.697693",
+      "frame_number": 36,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.250704
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.717669",
+      "frame_number": 37,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.27068
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.740976",
+      "frame_number": 38,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.293987
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.774101",
+      "frame_number": 39,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.327112
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.797633",
+      "frame_number": 40,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.350644
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.819442",
+      "frame_number": 41,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.372453
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.842398",
+      "frame_number": 42,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 1.395409
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.875220",
+      "frame_number": 43,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 1.428231
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.897054",
+      "frame_number": 44,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.450065
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.918438",
+      "frame_number": 45,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.471449
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.943837",
+      "frame_number": 46,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.496848
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.973223",
+      "frame_number": 47,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.526234
+    },
+    {
+      "timestamp": "2026-01-26T23:30:36.997988",
+      "frame_number": 48,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.550999
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.015065",
+      "frame_number": 49,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.568076
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.046335",
+      "frame_number": 50,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.599346
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.073297",
+      "frame_number": 51,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.626308
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.097248",
+      "frame_number": 52,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.650259
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.117351",
+      "frame_number": 53,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.670362
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.145662",
+      "frame_number": 54,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 1.698673
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.170697",
+      "frame_number": 55,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.723708
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.197482",
+      "frame_number": 56,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.750493
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.223713",
+      "frame_number": 57,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 1.776724
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.246968",
+      "frame_number": 58,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 1.799979
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.262359",
+      "frame_number": 59,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 1.81537
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.282545",
+      "frame_number": 60,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 1.835556
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.311868",
+      "frame_number": 61,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 1.864879
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.338825",
+      "frame_number": 62,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.891836
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.358098",
+      "frame_number": 63,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 1.911109
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.390295",
+      "frame_number": 64,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.943306
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.413567",
+      "frame_number": 65,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 1.966578
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.439531",
+      "frame_number": 66,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 1.992542
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.462822",
+      "frame_number": 67,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.015833
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.481610",
+      "frame_number": 68,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.034621
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.496982",
+      "frame_number": 69,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 2.049993
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.512404",
+      "frame_number": 70,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 2.065415
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.540553",
+      "frame_number": 71,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 2.093564
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.556091",
+      "frame_number": 72,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.109102
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.573097",
+      "frame_number": 73,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.126108
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.598322",
+      "frame_number": 74,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.151333
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.613312",
+      "frame_number": 75,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.166323
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.631935",
+      "frame_number": 76,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.184946
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.657777",
+      "frame_number": 77,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.210788
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.681613",
+      "frame_number": 78,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.234624
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.696603",
+      "frame_number": 79,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.249614
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.717717",
+      "frame_number": 80,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.270728
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.744568",
+      "frame_number": 81,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.297579
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.773532",
+      "frame_number": 82,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.326543
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.797070",
+      "frame_number": 83,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.350081
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.824194",
+      "frame_number": 84,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.377205
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.848337",
+      "frame_number": 85,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.401348
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.862802",
+      "frame_number": 86,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.415813
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.881798",
+      "frame_number": 87,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 2.434809
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.907413",
+      "frame_number": 88,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.460424
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.931786",
+      "frame_number": 89,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.484797
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.957140",
+      "frame_number": 90,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 2.510151
+    },
+    {
+      "timestamp": "2026-01-26T23:30:37.977486",
+      "frame_number": 91,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 2.530497
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.006839",
+      "frame_number": 92,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 2.55985
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.024858",
+      "frame_number": 93,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 2.577869
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.047730",
+      "frame_number": 94,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 2.600741
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.081699",
+      "frame_number": 95,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 2.63471
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.108402",
+      "frame_number": 96,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 2.661413
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.131857",
+      "frame_number": 97,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.684868
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.146957",
+      "frame_number": 98,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.699968
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.172666",
+      "frame_number": 99,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.725677
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.196988",
+      "frame_number": 100,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.749999
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.223163",
+      "frame_number": 101,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.776174
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.247697",
+      "frame_number": 102,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.800708
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.277521",
+      "frame_number": 103,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.830532
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.306691",
+      "frame_number": 104,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.859702
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.326998",
+      "frame_number": 105,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 2.880009
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.343537",
+      "frame_number": 106,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.896548
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.373122",
+      "frame_number": 107,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 2.926133
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.398273",
+      "frame_number": 108,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 2.951284
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.413677",
+      "frame_number": 109,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 2.966688
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.440353",
+      "frame_number": 110,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 2.993364
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.464766",
+      "frame_number": 111,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.017777
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.491594",
+      "frame_number": 112,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.044605
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.513746",
+      "frame_number": 113,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.066757
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.531788",
+      "frame_number": 114,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.084799
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.547437",
+      "frame_number": 115,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.100448
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.573645",
+      "frame_number": 116,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.126656
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.598325",
+      "frame_number": 117,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.151336
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.612771",
+      "frame_number": 118,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.165782
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.631954",
+      "frame_number": 119,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.184965
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.647346",
+      "frame_number": 120,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 3.200357
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.672964",
+      "frame_number": 121,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.225975
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.697097",
+      "frame_number": 122,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.250108
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.714846",
+      "frame_number": 123,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.267857
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.741447",
+      "frame_number": 124,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.294458
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.765708",
+      "frame_number": 125,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.318719
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.781827",
+      "frame_number": 126,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.334838
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.797945",
+      "frame_number": 127,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.350956
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.812592",
+      "frame_number": 128,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.365603
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.840075",
+      "frame_number": 129,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.393086
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.863696",
+      "frame_number": 130,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.416707
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.881424",
+      "frame_number": 131,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.434435
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.898299",
+      "frame_number": 132,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.45131
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.913660",
+      "frame_number": 133,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.466671
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.939681",
+      "frame_number": 134,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 3.492692
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.962409",
+      "frame_number": 135,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 3.51542
+    },
+    {
+      "timestamp": "2026-01-26T23:30:38.990595",
+      "frame_number": 136,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.543606
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.013502",
+      "frame_number": 137,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.566513
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.031824",
+      "frame_number": 138,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.584835
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.046826",
+      "frame_number": 139,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.599837
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.062891",
+      "frame_number": 140,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.615902
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.090463",
+      "frame_number": 141,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 3.643474
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.113568",
+      "frame_number": 142,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 3.666579
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.131403",
+      "frame_number": 143,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.684414
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.161668",
+      "frame_number": 144,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.714679
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.181721",
+      "frame_number": 145,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.734732
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.212229",
+      "frame_number": 146,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 3.76524
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.235586",
+      "frame_number": 147,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 3.788597
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.261313",
+      "frame_number": 148,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.814324
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.282565",
+      "frame_number": 149,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.835576
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.298288",
+      "frame_number": 150,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.851299
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.323175",
+      "frame_number": 151,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 3.876186
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.348171",
+      "frame_number": 152,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.901182
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.374261",
+      "frame_number": 153,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 3.927272
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.398244",
+      "frame_number": 154,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 3.951255
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.422977",
+      "frame_number": 155,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 3.975988
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.447677",
+      "frame_number": 156,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 4.000688
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.465769",
+      "frame_number": 157,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 4.01878
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.481994",
+      "frame_number": 158,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 4.035005
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.502953",
+      "frame_number": 159,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 4.055964
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.526702",
+      "frame_number": 160,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 4.079713
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.559966",
+      "frame_number": 161,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.112977
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.581690",
+      "frame_number": 162,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.134701
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.598430",
+      "frame_number": 163,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.151441
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.623544",
+      "frame_number": 164,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.176555
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.647212",
+      "frame_number": 165,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.200223
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.662255",
+      "frame_number": 166,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.215266
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.681672",
+      "frame_number": 167,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.234683
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.712330",
+      "frame_number": 168,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.265341
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.728303",
+      "frame_number": 169,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.281314
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.746833",
+      "frame_number": 170,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.299844
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.767292",
+      "frame_number": 171,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.320303
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.793703",
+      "frame_number": 172,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.346714
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.808502",
+      "frame_number": 173,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.361513
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.831494",
+      "frame_number": 174,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.384505
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.847207",
+      "frame_number": 175,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 4.400218
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.867396",
+      "frame_number": 176,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.420407
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.897184",
+      "frame_number": 177,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.450195
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.923655",
+      "frame_number": 178,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.476666
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.947755",
+      "frame_number": 179,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.500766
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.973532",
+      "frame_number": 180,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.526543
+    },
+    {
+      "timestamp": "2026-01-26T23:30:39.998998",
+      "frame_number": 181,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.552009
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.031554",
+      "frame_number": 182,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.584565
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.058421",
+      "frame_number": 183,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.611432
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.075951",
+      "frame_number": 184,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 4.628962
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.106567",
+      "frame_number": 185,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.659578
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.131629",
+      "frame_number": 186,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.68464
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.148290",
+      "frame_number": 187,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.701301
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.163220",
+      "frame_number": 188,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.716231
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.190847",
+      "frame_number": 189,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.743858
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.206563",
+      "frame_number": 190,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.759574
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.222877",
+      "frame_number": 191,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 4.775888
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.247563",
+      "frame_number": 192,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.800574
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.262597",
+      "frame_number": 193,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.815608
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.290446",
+      "frame_number": 194,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 4.843457
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.313590",
+      "frame_number": 195,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.866601
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.339725",
+      "frame_number": 196,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.892736
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.362729",
+      "frame_number": 197,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.91574
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.391366",
+      "frame_number": 198,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.944377
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.413819",
+      "frame_number": 199,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 4.96683
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.431688",
+      "frame_number": 200,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 4.984699
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.447652",
+      "frame_number": 201,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 1
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 5.000663
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.469091",
+      "frame_number": 202,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.022102
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.491682",
+      "frame_number": 203,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.044693
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.513781",
+      "frame_number": 204,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.066792
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.532316",
+      "frame_number": 205,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.085327
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.563452",
+      "frame_number": 206,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.116463
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.598453",
+      "frame_number": 207,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.151464
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.613552",
+      "frame_number": 208,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.166563
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.643788",
+      "frame_number": 209,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.196799
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.669203",
+      "frame_number": 210,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.222214
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.698174",
+      "frame_number": 211,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.251185
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.713523",
+      "frame_number": 212,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.266534
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.741263",
+      "frame_number": 213,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.294274
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.758786",
+      "frame_number": 214,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.311797
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.781748",
+      "frame_number": 215,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.334759
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.812486",
+      "frame_number": 216,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.365497
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.841700",
+      "frame_number": 217,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.394711
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.863625",
+      "frame_number": 218,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 5.416636
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.881579",
+      "frame_number": 219,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.43459
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.913250",
+      "frame_number": 220,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.466261
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.931835",
+      "frame_number": 221,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.484846
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.948570",
+      "frame_number": 222,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.501581
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.973488",
+      "frame_number": 223,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.526499
+    },
+    {
+      "timestamp": "2026-01-26T23:30:40.998245",
+      "frame_number": 224,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.551256
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.012621",
+      "frame_number": 225,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 5.565632
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.031512",
+      "frame_number": 226,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.584523
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.062344",
+      "frame_number": 227,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.615355
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.093599",
+      "frame_number": 228,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 5.64661
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.116911",
+      "frame_number": 229,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 5.669922
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.143086",
+      "frame_number": 230,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 5.696097
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.171964",
+      "frame_number": 231,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 5.724975
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.197017",
+      "frame_number": 232,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.750028
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.212281",
+      "frame_number": 233,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.765292
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.235651",
+      "frame_number": 234,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.788662
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.261598",
+      "frame_number": 235,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.814609
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.281550",
+      "frame_number": 236,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.834561
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.313378",
+      "frame_number": 237,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 5.866389
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.339743",
+      "frame_number": 238,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.892754
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.363597",
+      "frame_number": 239,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.916608
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.381653",
+      "frame_number": 240,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.934664
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.413487",
+      "frame_number": 241,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 5.966498
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.438434",
+      "frame_number": 242,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 5.991445
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.457869",
+      "frame_number": 243,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.01088
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.481709",
+      "frame_number": 244,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 3
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.03472
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.513331",
+      "frame_number": 245,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 4
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.066342
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.531619",
+      "frame_number": 246,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 4
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.08463
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.563172",
+      "frame_number": 247,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 6
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 6.116183
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.592319",
+      "frame_number": 248,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 4
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.14533
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.617811",
+      "frame_number": 249,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 6.170822
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.644693",
+      "frame_number": 250,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 6.197704
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.672946",
+      "frame_number": 251,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.225957
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.697284",
+      "frame_number": 252,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.250295
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.733186",
+      "frame_number": 253,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 4
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 6.286197
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.763560",
+      "frame_number": 254,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 4
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.316571
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.781821",
+      "frame_number": 255,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 6.334832
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.813277",
+      "frame_number": 256,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 5
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.366288
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.840226",
+      "frame_number": 257,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 5
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.393237
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.863526",
+      "frame_number": 258,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 6
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 6.416537
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.889925",
+      "frame_number": 259,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 6
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.442936
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.910020",
+      "frame_number": 260,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 5
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.463031
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.931573",
+      "frame_number": 261,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 5
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.484584
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.962837",
+      "frame_number": 262,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 6
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 6.515848
+    },
+    {
+      "timestamp": "2026-01-26T23:30:41.997327",
+      "frame_number": 263,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.550338
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.022758",
+      "frame_number": 264,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.575769
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.046880",
+      "frame_number": 265,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.599891
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.068953",
+      "frame_number": 266,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 3
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 6.621964
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.098562",
+      "frame_number": 267,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.651573
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.124047",
+      "frame_number": 268,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 3
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 6.677058
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.148270",
+      "frame_number": 269,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 6.701281
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.173370",
+      "frame_number": 270,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.726381
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.197346",
+      "frame_number": 271,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.750357
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.221992",
+      "frame_number": 272,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.775003
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.246983",
+      "frame_number": 273,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.799994
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.273450",
+      "frame_number": 274,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.826461
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.296980",
+      "frame_number": 275,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.849991
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.323394",
+      "frame_number": 276,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.876405
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.346930",
+      "frame_number": 277,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.899941
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.370894",
+      "frame_number": 278,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 6.923905
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.397166",
+      "frame_number": 279,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 6.950177
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.423496",
+      "frame_number": 280,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 6.976507
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.448331",
+      "frame_number": 281,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.001342
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.464379",
+      "frame_number": 282,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.01739
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.481756",
+      "frame_number": 283,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.034767
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.512003",
+      "frame_number": 284,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "session_elapsed": 7.065014
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.531672",
+      "frame_number": 285,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.084683
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.563867",
+      "frame_number": 286,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "session_elapsed": 7.116878
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.589410",
+      "frame_number": 287,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "session_elapsed": 7.142421
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.613498",
+      "frame_number": 288,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.166509
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.647508",
+      "frame_number": 289,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.200519
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.668658",
+      "frame_number": 290,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.221669
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.696810",
+      "frame_number": 291,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.249821
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.723526",
+      "frame_number": 292,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.276537
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.748556",
+      "frame_number": 293,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.301567
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.778765",
+      "frame_number": 294,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.331776
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.806651",
+      "frame_number": 295,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.359662
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.843379",
+      "frame_number": 296,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.39639
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.868806",
+      "frame_number": 297,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 7.421817
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.896704",
+      "frame_number": 298,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 7.449715
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.923458",
+      "frame_number": 299,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 7.476469
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.948143",
+      "frame_number": 300,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 7.501154
+    },
+    {
+      "timestamp": "2026-01-26T23:30:42.981728",
+      "frame_number": 301,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 13,
+        "Right": 2
+      },
+      "total_vehicles": 15,
+      "session_elapsed": 7.534739
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.006901",
+      "frame_number": 302,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 12,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.559912
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.031564",
+      "frame_number": 303,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 7.584575
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.061811",
+      "frame_number": 304,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 7.614822
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.093710",
+      "frame_number": 305,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 7.646721
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.117209",
+      "frame_number": 306,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 7.67022
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.143485",
+      "frame_number": 307,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.696496
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.174626",
+      "frame_number": 308,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.727637
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.197091",
+      "frame_number": 309,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 7.750102
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.217974",
+      "frame_number": 310,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.770985
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.246772",
+      "frame_number": 311,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 15,
+      "session_elapsed": 7.799783
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.268671",
+      "frame_number": 312,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 7.821682
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.298605",
+      "frame_number": 313,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.851616
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.324171",
+      "frame_number": 314,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 15,
+      "session_elapsed": 7.877182
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.348369",
+      "frame_number": 315,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 12,
+        "Right": 1
+      },
+      "total_vehicles": 16,
+      "session_elapsed": 7.90138
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.378630",
+      "frame_number": 316,
+      "lane_counts": {
+        "Left": 3,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 7.931641
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.406908",
+      "frame_number": 317,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 7.959919
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.427131",
+      "frame_number": 318,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 7.980142
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.458852",
+      "frame_number": 319,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.011863
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.481623",
+      "frame_number": 320,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 8.034634
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.512545",
+      "frame_number": 321,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.065556
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.547305",
+      "frame_number": 322,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.100316
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.570694",
+      "frame_number": 323,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.123705
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.597142",
+      "frame_number": 324,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.150153
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.623056",
+      "frame_number": 325,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 8.176067
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.647085",
+      "frame_number": 326,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.200096
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.674647",
+      "frame_number": 327,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 8.227658
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.697123",
+      "frame_number": 328,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 8.250134
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.724458",
+      "frame_number": 329,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 8.277469
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.756365",
+      "frame_number": 330,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 8.309376
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.781721",
+      "frame_number": 331,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 8.334732
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.813584",
+      "frame_number": 332,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.366595
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.840671",
+      "frame_number": 333,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.393682
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.875188",
+      "frame_number": 334,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.428199
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.897413",
+      "frame_number": 335,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 8.450424
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.930819",
+      "frame_number": 336,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.48383
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.956078",
+      "frame_number": 337,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 8.509089
+    },
+    {
+      "timestamp": "2026-01-26T23:30:43.992850",
+      "frame_number": 338,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 8.545861
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.014815",
+      "frame_number": 339,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 8.567826
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.048285",
+      "frame_number": 340,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 8.601296
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.075947",
+      "frame_number": 341,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 8.628958
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.096965",
+      "frame_number": 342,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.649976
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.106410",
+      "frame_number": 343,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 8.659421
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.143740",
+      "frame_number": 344,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 8.696751
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.173110",
+      "frame_number": 345,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 8.726121
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.196785",
+      "frame_number": 346,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.749796
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.223338",
+      "frame_number": 347,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 8.776349
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.253957",
+      "frame_number": 348,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 8.806968
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.273140",
+      "frame_number": 349,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 8.826151
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.297165",
+      "frame_number": 350,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 8.850176
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.323553",
+      "frame_number": 351,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 8.876564
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.348272",
+      "frame_number": 352,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 8.901283
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.373319",
+      "frame_number": 353,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 8.92633
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.396919",
+      "frame_number": 354,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 8.94993
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.425022",
+      "frame_number": 355,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 8.978033
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.457335",
+      "frame_number": 356,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.010346
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.481508",
+      "frame_number": 357,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.034519
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.499206",
+      "frame_number": 358,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.052217
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.523327",
+      "frame_number": 359,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 3
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.076338
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.548147",
+      "frame_number": 360,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 9.101158
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.581633",
+      "frame_number": 361,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 9.134644
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.612917",
+      "frame_number": 362,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 9.165928
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.640222",
+      "frame_number": 363,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.193233
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.664154",
+      "frame_number": 364,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.217165
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.682440",
+      "frame_number": 365,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 3
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 9.235451
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.705397",
+      "frame_number": 366,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.258408
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.731575",
+      "frame_number": 367,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.284586
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.761581",
+      "frame_number": 368,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 9.314592
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.795992",
+      "frame_number": 369,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 9.349003
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.823058",
+      "frame_number": 370,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 9.376069
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.847090",
+      "frame_number": 371,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 14,
+      "session_elapsed": 9.400101
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.876421",
+      "frame_number": 372,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 10,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 9.429432
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.909249",
+      "frame_number": 373,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 9.46226
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.939524",
+      "frame_number": 374,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.492535
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.963576",
+      "frame_number": 375,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.516587
+    },
+    {
+      "timestamp": "2026-01-26T23:30:44.997927",
+      "frame_number": 376,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.550938
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.020796",
+      "frame_number": 377,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 9.573807
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.047157",
+      "frame_number": 378,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.600168
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.078071",
+      "frame_number": 379,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.631082
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.106854",
+      "frame_number": 380,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.659865
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.127163",
+      "frame_number": 381,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.680174
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.158873",
+      "frame_number": 382,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.711884
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.182001",
+      "frame_number": 383,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.735012
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.213524",
+      "frame_number": 384,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.766535
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.235547",
+      "frame_number": 385,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.788558
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.262428",
+      "frame_number": 386,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 9.815439
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.290182",
+      "frame_number": 387,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 9.843193
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.313490",
+      "frame_number": 388,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.866501
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.347053",
+      "frame_number": 389,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.900064
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.373014",
+      "frame_number": 390,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 9.926025
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.412402",
+      "frame_number": 391,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.965413
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.438199",
+      "frame_number": 392,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 9.99121
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.464513",
+      "frame_number": 393,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.017524
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.490982",
+      "frame_number": 394,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.043993
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.513582",
+      "frame_number": 395,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.066593
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.548397",
+      "frame_number": 396,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 10.101408
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.573497",
+      "frame_number": 397,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 10.126508
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.598909",
+      "frame_number": 398,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.15192
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.623367",
+      "frame_number": 399,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.176378
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.646739",
+      "frame_number": 400,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 10.19975
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.673867",
+      "frame_number": 401,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 10.226878
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.698267",
+      "frame_number": 402,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 10.251278
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.723392",
+      "frame_number": 403,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.276403
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.748296",
+      "frame_number": 404,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.301307
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.768157",
+      "frame_number": 405,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 11,
+        "Right": 2
+      },
+      "total_vehicles": 13,
+      "session_elapsed": 10.321168
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.793886",
+      "frame_number": 406,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 2
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 10.346897
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.815106",
+      "frame_number": 407,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.368117
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.848368",
+      "frame_number": 408,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.401379
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.873676",
+      "frame_number": 409,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.426687
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.898347",
+      "frame_number": 410,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.451358
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.923474",
+      "frame_number": 411,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 10.476485
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.946971",
+      "frame_number": 412,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 10.499982
+    },
+    {
+      "timestamp": "2026-01-26T23:30:45.973031",
+      "frame_number": 413,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 0
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 10.526042
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.012343",
+      "frame_number": 414,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.565354
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.047628",
+      "frame_number": 415,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.600639
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.076007",
+      "frame_number": 416,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 10.629018
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.113464",
+      "frame_number": 417,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.666475
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.140024",
+      "frame_number": 418,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.693035
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.175301",
+      "frame_number": 419,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 10.728312
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.212005",
+      "frame_number": 420,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 10.765016
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.247649",
+      "frame_number": 421,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 10.80066
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.272050",
+      "frame_number": 422,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 10.825061
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.314149",
+      "frame_number": 423,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 10.86716
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.346743",
+      "frame_number": 424,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 10.899754
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.373058",
+      "frame_number": 425,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 10.926069
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.397122",
+      "frame_number": 426,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 10.950133
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.424888",
+      "frame_number": 427,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 10.977899
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.458040",
+      "frame_number": 428,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.011051
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.481456",
+      "frame_number": 429,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.034467
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.498989",
+      "frame_number": 430,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.052
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.523204",
+      "frame_number": 431,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.076215
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.547071",
+      "frame_number": 432,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.100082
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.573629",
+      "frame_number": 433,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.12664
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.598573",
+      "frame_number": 434,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.151584
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.629853",
+      "frame_number": 435,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.182864
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.659773",
+      "frame_number": 436,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 0
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 11.212784
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.696734",
+      "frame_number": 437,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.249745
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.717675",
+      "frame_number": 438,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.270686
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.747072",
+      "frame_number": 439,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.300083
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.770019",
+      "frame_number": 440,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.32303
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.794657",
+      "frame_number": 441,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.347668
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.823077",
+      "frame_number": 442,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.376088
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.848009",
+      "frame_number": 443,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.40102
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.873131",
+      "frame_number": 444,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.426142
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.898247",
+      "frame_number": 445,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.451258
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.924071",
+      "frame_number": 446,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.477082
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.948325",
+      "frame_number": 447,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 11.501336
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.965844",
+      "frame_number": 448,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.518855
+    },
+    {
+      "timestamp": "2026-01-26T23:30:46.994916",
+      "frame_number": 449,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.547927
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.016011",
+      "frame_number": 450,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.569022
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.043868",
+      "frame_number": 451,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.596879
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.066098",
+      "frame_number": 452,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.619109
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.088115",
+      "frame_number": 453,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.641126
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.113929",
+      "frame_number": 454,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.66694
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.140454",
+      "frame_number": 455,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.693465
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.163282",
+      "frame_number": 456,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.716293
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.189560",
+      "frame_number": 457,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.742571
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.215356",
+      "frame_number": 458,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.768367
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.235174",
+      "frame_number": 459,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.788185
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.262612",
+      "frame_number": 460,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.815623
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.292336",
+      "frame_number": 461,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.845347
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.314899",
+      "frame_number": 462,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 11.86791
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.346853",
+      "frame_number": 463,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 11.899864
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.367332",
+      "frame_number": 464,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 11.920343
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.395830",
+      "frame_number": 465,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 2,
+        "Right": 0
+      },
+      "total_vehicles": 3,
+      "session_elapsed": 11.948841
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.425119",
+      "frame_number": 466,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 11.97813
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.448023",
+      "frame_number": 467,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 12.001034
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.473352",
+      "frame_number": 468,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 12.026363
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.498262",
+      "frame_number": 469,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 12.051273
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.523261",
+      "frame_number": 470,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 0
+      },
+      "total_vehicles": 4,
+      "session_elapsed": 12.076272
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.548383",
+      "frame_number": 471,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 0
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 12.101394
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.573418",
+      "frame_number": 472,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 0
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.126429
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.596781",
+      "frame_number": 473,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.149792
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.625378",
+      "frame_number": 474,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.178389
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.648173",
+      "frame_number": 475,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 3
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 12.201184
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.680428",
+      "frame_number": 476,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 2
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 12.233439
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.696724",
+      "frame_number": 477,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.249735
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.716278",
+      "frame_number": 478,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.269289
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.743374",
+      "frame_number": 479,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.296385
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.767118",
+      "frame_number": 480,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.320129
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.797172",
+      "frame_number": 481,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.350183
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.821203",
+      "frame_number": 482,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.374214
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.841082",
+      "frame_number": 483,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.394093
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.864014",
+      "frame_number": 484,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.417025
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.889919",
+      "frame_number": 485,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.44293
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.913410",
+      "frame_number": 486,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.466421
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.948655",
+      "frame_number": 487,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.501666
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.973472",
+      "frame_number": 488,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.526483
+    },
+    {
+      "timestamp": "2026-01-26T23:30:47.998372",
+      "frame_number": 489,
+      "lane_counts": {
+        "Left": 2,
+        "Center": 4,
+        "Right": 4
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 12.551383
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.023884",
+      "frame_number": 490,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 4
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.576895
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.048869",
+      "frame_number": 491,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 12.60188
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.074318",
+      "frame_number": 492,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.627329
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.096626",
+      "frame_number": 493,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.649637
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.123079",
+      "frame_number": 494,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.67609
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.147133",
+      "frame_number": 495,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.700144
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.163388",
+      "frame_number": 496,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 12.716399
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.197232",
+      "frame_number": 497,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.750243
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.223730",
+      "frame_number": 498,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.776741
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.247911",
+      "frame_number": 499,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 12.800922
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.273188",
+      "frame_number": 500,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 12.826199
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.297854",
+      "frame_number": 501,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.850865
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.331536",
+      "frame_number": 502,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 12.884547
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.357071",
+      "frame_number": 503,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 12.910082
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.394140",
+      "frame_number": 504,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 12.947151
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.415370",
+      "frame_number": 505,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 3
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 12.968381
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.446990",
+      "frame_number": 506,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.000001
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.474044",
+      "frame_number": 507,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.027055
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.498142",
+      "frame_number": 508,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.051153
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.523046",
+      "frame_number": 509,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.076057
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.547104",
+      "frame_number": 510,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.100115
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.581813",
+      "frame_number": 511,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.134824
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.605342",
+      "frame_number": 512,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.158353
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.641273",
+      "frame_number": 513,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.194284
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.663311",
+      "frame_number": 514,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.216322
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.698036",
+      "frame_number": 515,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.251047
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.723192",
+      "frame_number": 516,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 13.276203
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.748263",
+      "frame_number": 517,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 13.301274
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.773756",
+      "frame_number": 518,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.326767
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.798822",
+      "frame_number": 519,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.351833
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.823242",
+      "frame_number": 520,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 13.376253
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.847816",
+      "frame_number": 521,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 13.400827
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.873373",
+      "frame_number": 522,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 13.426384
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.898145",
+      "frame_number": 523,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 13.451156
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.923348",
+      "frame_number": 524,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.476359
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.947194",
+      "frame_number": 525,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.500205
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.965425",
+      "frame_number": 526,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 3
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.518436
+    },
+    {
+      "timestamp": "2026-01-26T23:30:48.992694",
+      "frame_number": 527,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.545705
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.016815",
+      "frame_number": 528,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 13.569826
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.044241",
+      "frame_number": 529,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 13.597252
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.072412",
+      "frame_number": 530,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.625423
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.098198",
+      "frame_number": 531,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.651209
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.123874",
+      "frame_number": 532,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.676885
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.148888",
+      "frame_number": 533,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 13.701899
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.173886",
+      "frame_number": 534,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 13.726897
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.198789",
+      "frame_number": 535,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 13.7518
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.223169",
+      "frame_number": 536,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 13.77618
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.248638",
+      "frame_number": 537,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 13.801649
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.274098",
+      "frame_number": 538,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 13.827109
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.298234",
+      "frame_number": 539,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 13.851245
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.322793",
+      "frame_number": 540,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 13.875804
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.363408",
+      "frame_number": 541,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 13.916419
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.388575",
+      "frame_number": 542,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 13.941586
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.414992",
+      "frame_number": 543,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 13.968003
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.440019",
+      "frame_number": 544,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 13.99303
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.463245",
+      "frame_number": 545,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 14.016256
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.497258",
+      "frame_number": 546,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 11,
+        "Right": 1
+      },
+      "total_vehicles": 12,
+      "session_elapsed": 14.050269
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.524330",
+      "frame_number": 547,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 9,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 14.077341
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.556979",
+      "frame_number": 548,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 10,
+        "Right": 1
+      },
+      "total_vehicles": 11,
+      "session_elapsed": 14.10999
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.581433",
+      "frame_number": 549,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 14.134444
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.613427",
+      "frame_number": 550,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 14.166438
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.646658",
+      "frame_number": 551,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 14.199669
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.681377",
+      "frame_number": 552,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.234388
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.713265",
+      "frame_number": 553,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 14.266276
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.740249",
+      "frame_number": 554,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 14.29326
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.773439",
+      "frame_number": 555,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 8,
+        "Right": 1
+      },
+      "total_vehicles": 10,
+      "session_elapsed": 14.32645
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.813318",
+      "frame_number": 556,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 14.366329
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.847883",
+      "frame_number": 557,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.400894
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.881638",
+      "frame_number": 558,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.434649
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.912059",
+      "frame_number": 559,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.46507
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.948243",
+      "frame_number": 560,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 7,
+        "Right": 1
+      },
+      "total_vehicles": 9,
+      "session_elapsed": 14.501254
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.973644",
+      "frame_number": 561,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.526655
+    },
+    {
+      "timestamp": "2026-01-26T23:30:49.998166",
+      "frame_number": 562,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.551177
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.023213",
+      "frame_number": 563,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.576224
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.047051",
+      "frame_number": 564,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.600062
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.072925",
+      "frame_number": 565,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 14.625936
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.097128",
+      "frame_number": 566,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.650139
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.118325",
+      "frame_number": 567,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.671336
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.145877",
+      "frame_number": 568,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.698888
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.173445",
+      "frame_number": 569,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 14.726456
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.198179",
+      "frame_number": 570,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.75119
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.231417",
+      "frame_number": 571,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 3,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 14.784428
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.261064",
+      "frame_number": 572,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.814075
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.281438",
+      "frame_number": 573,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 14.834449
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.313458",
+      "frame_number": 574,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 8,
+      "session_elapsed": 14.866469
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.347932",
+      "frame_number": 575,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.900943
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.373238",
+      "frame_number": 576,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.926249
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.396552",
+      "frame_number": 577,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 14.949563
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.422867",
+      "frame_number": 578,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 14.975878
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.448068",
+      "frame_number": 579,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.001079
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.478415",
+      "frame_number": 580,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.031426
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.505894",
+      "frame_number": 581,
+      "lane_counts": {
+        "Left": 1,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.058905
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.525985",
+      "frame_number": 582,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.078996
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.558220",
+      "frame_number": 583,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.111231
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.590687",
+      "frame_number": 584,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.143698
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.613385",
+      "frame_number": 585,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.166396
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.639488",
+      "frame_number": 586,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.192499
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.663671",
+      "frame_number": 587,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.216682
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.697007",
+      "frame_number": 588,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.250018
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.723142",
+      "frame_number": 589,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.276153
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.747320",
+      "frame_number": 590,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.300331
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.776117",
+      "frame_number": 591,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.329128
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.808259",
+      "frame_number": 592,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.36127
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.831714",
+      "frame_number": 593,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.384725
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.863217",
+      "frame_number": 594,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.416228
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.892249",
+      "frame_number": 595,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "total_vehicles": 7,
+      "session_elapsed": 15.44526
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.923280",
+      "frame_number": 596,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.476291
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.947188",
+      "frame_number": 597,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.500199
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.978946",
+      "frame_number": 598,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.531957
+    },
+    {
+      "timestamp": "2026-01-26T23:30:50.996245",
+      "frame_number": 599,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "total_vehicles": 6,
+      "session_elapsed": 15.549256
+    },
+    {
+      "timestamp": "2026-01-26T23:30:51.006267",
+      "frame_number": 600,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.559278
+    },
+    {
+      "timestamp": "2026-01-26T23:30:51.044277",
+      "frame_number": 601,
+      "lane_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "total_vehicles": 5,
+      "session_elapsed": 15.597288
+    }
+  ]
+}

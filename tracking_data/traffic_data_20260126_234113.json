@@ -1,0 +1,1589 @@
+{
+  "session_info": {
+    "start_time": "2026-01-26T23:41:13.598735",
+    "total_frames": 60,
+    "frame_dimensions": "1280x720",
+    "lane_setup": {
+      "Left": [
+        0,
+        240,
+        426,
+        720
+      ],
+      "Center": [
+        426,
+        240,
+        852,
+        720
+      ],
+      "Right": [
+        852,
+        240,
+        1280,
+        720
+      ]
+    }
+  },
+  "tracking_data": [
+    {
+      "timestamp": "2026-01-26T23:41:13.789004",
+      "frame_number": 1,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 0
+      },
+      "class_wise_counts": {
+        "car": 0,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 3,
+      "total_vehicles_counted": 0,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 0.190269
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.383015",
+      "frame_number": 2,
+      "active_counts": {
+        "Left": 0,
+        "Center": 2,
+        "Right": 0
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 0
+      },
+      "class_wise_counts": {
+        "car": 0,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 2,
+      "total_vehicles_counted": 0,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 0.78428
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.408172",
+      "frame_number": 3,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 0
+      },
+      "class_wise_counts": {
+        "car": 0,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 3,
+      "total_vehicles_counted": 0,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 0.809437
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.442228",
+      "frame_number": 4,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 0
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 0
+      },
+      "class_wise_counts": {
+        "car": 0,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 3,
+      "total_vehicles_counted": 0,
+      "active_tracks": 3,
+      "total_tracks_seen": 3,
+      "session_elapsed": 0.843493
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.475431",
+      "frame_number": 5,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 5,
+      "total_tracks_seen": 5,
+      "session_elapsed": 0.876696
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.509203",
+      "frame_number": 6,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 5,
+      "total_tracks_seen": 5,
+      "session_elapsed": 0.910468
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.544189",
+      "frame_number": 7,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 0.945454
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.577713",
+      "frame_number": 8,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 0.978978
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.610954",
+      "frame_number": 9,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 1.012219
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.637904",
+      "frame_number": 10,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 1.039169
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.665854",
+      "frame_number": 11,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 1.067119
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.693499",
+      "frame_number": 12,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 7,
+      "total_tracks_seen": 7,
+      "session_elapsed": 1.094764
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.729494",
+      "frame_number": 13,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 8,
+      "total_tracks_seen": 8,
+      "session_elapsed": 1.130759
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.760658",
+      "frame_number": 14,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 8,
+      "total_tracks_seen": 8,
+      "session_elapsed": 1.161923
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.793732",
+      "frame_number": 15,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 8,
+      "total_tracks_seen": 8,
+      "session_elapsed": 1.194997
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.825554",
+      "frame_number": 16,
+      "active_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 10,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.226819
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.860191",
+      "frame_number": 17,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.261456
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.891988",
+      "frame_number": 18,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.293253
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.925426",
+      "frame_number": 19,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.326691
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.958855",
+      "frame_number": 20,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.36012
+    },
+    {
+      "timestamp": "2026-01-26T23:41:14.992421",
+      "frame_number": 21,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.393686
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.025647",
+      "frame_number": 22,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.426912
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.058639",
+      "frame_number": 23,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.459904
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.099692",
+      "frame_number": 24,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.500957
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.138379",
+      "frame_number": 25,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.539644
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.176450",
+      "frame_number": 26,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.577715
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.208004",
+      "frame_number": 27,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.609269
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.233548",
+      "frame_number": 28,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.634813
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.265450",
+      "frame_number": 29,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 2
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.666715
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.299373",
+      "frame_number": 30,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.700638
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.333815",
+      "frame_number": 31,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.73508
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.377205",
+      "frame_number": 32,
+      "active_counts": {
+        "Left": 0,
+        "Center": 8,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 9,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.77847
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.424835",
+      "frame_number": 33,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.8261
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.465389",
+      "frame_number": 34,
+      "active_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.866654
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.499941",
+      "frame_number": 35,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.901206
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.533347",
+      "frame_number": 36,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.934612
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.564884",
+      "frame_number": 37,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.966149
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.595487",
+      "frame_number": 38,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 1.996752
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.625350",
+      "frame_number": 39,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.026615
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.665201",
+      "frame_number": 40,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.066466
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.698994",
+      "frame_number": 41,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.100259
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.733672",
+      "frame_number": 42,
+      "active_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.134937
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.765133",
+      "frame_number": 43,
+      "active_counts": {
+        "Left": 0,
+        "Center": 7,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 8,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.166398
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.808166",
+      "frame_number": 44,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.209431
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.845755",
+      "frame_number": 45,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.24702
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.875733",
+      "frame_number": 46,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.276998
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.908202",
+      "frame_number": 47,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.309467
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.934432",
+      "frame_number": 48,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.335697
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.965875",
+      "frame_number": 49,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.36714
+    },
+    {
+      "timestamp": "2026-01-26T23:41:15.999672",
+      "frame_number": 50,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.400937
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.029999",
+      "frame_number": 51,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.431264
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.068777",
+      "frame_number": 52,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.470042
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.109712",
+      "frame_number": 53,
+      "active_counts": {
+        "Left": 0,
+        "Center": 6,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 7,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.510977
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.150539",
+      "frame_number": 54,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.551804
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.182699",
+      "frame_number": 55,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.583964
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.207861",
+      "frame_number": 56,
+      "active_counts": {
+        "Left": 0,
+        "Center": 5,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 6,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.609126
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.244608",
+      "frame_number": 57,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.645873
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.283862",
+      "frame_number": 58,
+      "active_counts": {
+        "Left": 0,
+        "Center": 3,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 4,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.685127
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.318506",
+      "frame_number": 59,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 1
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 5,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.719771
+    },
+    {
+      "timestamp": "2026-01-26T23:41:16.361137",
+      "frame_number": 60,
+      "active_counts": {
+        "Left": 0,
+        "Center": 4,
+        "Right": 0
+      },
+      "cumulative_counts": {
+        "Left": 0,
+        "Center": 0,
+        "Right": 1
+      },
+      "class_wise_counts": {
+        "car": 1,
+        "motorcycle": 0,
+        "bus": 0,
+        "truck": 0,
+        "bicycle": 0
+      },
+      "total_vehicles_active": 4,
+      "total_vehicles_counted": 1,
+      "active_tracks": 10,
+      "total_tracks_seen": 10,
+      "session_elapsed": 2.762402
+    }
+  ]
+}
