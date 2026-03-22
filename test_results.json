@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-03-17 23:50:56.270945",
+  "test_1_predictions": [
+    {
+      "test": "Light Traffic",
+      "predicted": 30,
+      "expected": 30
+    },
+    {
+      "test": "Moderate Traffic",
+      "predicted": 30,
+      "expected": 60
+    },
+    {
+      "test": "Heavy Traffic",
+      "predicted": 60,
+      "expected": 90
+    },
+    {
+      "test": "Very Heavy Traffic",
+      "predicted": 120,
+      "expected": 120
+    },
+    {
+      "test": "Rain Light Traffic",
+      "predicted": 30,
+      "expected": 30
+    }
+  ],
+  "test_2_aggregation": [
+    {
+      "window": 0,
+      "vehicles": 5,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 1,
+      "vehicles": 8,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 2,
+      "vehicles": 11,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 3,
+      "vehicles": 13,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 4,
+      "vehicles": 17,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 5,
+      "vehicles": 19,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 6,
+      "vehicles": 20,
+      "green_time": 30,
+      "confidence": 1.0
+    },
+    {
+      "window": 7,
+      "vehicles": 24,
+      "green_time": 60,
+      "confidence": 0.78
+    },
+    {
+      "window": 8,
+      "vehicles": 26,
+      "green_time": 60,
+      "confidence": 0.91
+    },
+    {
+      "window": 9,
+      "vehicles": 29,
+      "green_time": 60,
+      "confidence": 0.99
+    }
+  ],
+  "overall_status": "READY FOR PRODUCTION"
+}

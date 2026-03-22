@@ -1,0 +1,18 @@
+{
+  "fixed": {
+    "mode": "fixed",
+    "green_time": 42,
+    "avg_waiting_time": 93.94,
+    "avg_queue_length": 6.58,
+    "total_arrived": 272
+  },
+  "adaptive": {
+    "mode": "adaptive",
+    "rain": 0,
+    "avg_waiting_time": 47.23,
+    "avg_queue_length": 4.75,
+    "total_arrived": 279
+  },
+  "improvement_wait_pct": 49.7,
+  "improvement_queue_pct": 27.8
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <!-- Vehicle types matching our categories -->
+    <vType id="car"       accel="2.6" decel="4.5" length="5.0" maxSpeed="13.89" sigma="0.5"/>
+    <vType id="bus_truck" accel="1.5" decel="3.0" length="12.0" maxSpeed="11.11" sigma="0.5"/>
+    <vType id="bike"      accel="3.0" decel="5.0" length="2.2" maxSpeed="11.11" sigma="0.5"/>
+
+    <!-- Routes: every direction to every other direction -->
+    <route id="north_south" edges="north_in south_out"/>
+    <route id="south_north" edges="south_in north_out"/>
+    <route id="east_west"   edges="east_in west_out"/>
+    <route id="west_east"   edges="west_in east_out"/>
+    <route id="north_east"  edges="north_in east_out"/>
+    <route id="south_west"  edges="south_in west_out"/>
+    <route id="east_north"  edges="east_in north_out"/>
+    <route id="west_south"  edges="west_in south_out"/>
+
+    <!-- Vehicle flows -->
+    <flow id="flow_ns"   type="car"       route="north_south" begin="0" end="600" vehsPerHour="400" departLane="best"/>
+    <flow id="flow_sn"   type="car"       route="south_north" begin="0" end="600" vehsPerHour="350" departLane="best"/>
+    <flow id="flow_ew"   type="car"       route="east_west"   begin="0" end="600" vehsPerHour="500" departLane="best"/>
+    <flow id="flow_we"   type="car"       route="west_east"   begin="0" end="600" vehsPerHour="300" departLane="best"/>
+    <flow id="flow_bus"  type="bus_truck" route="north_south" begin="0" end="600" vehsPerHour="50"  departLane="best"/>
+    <flow id="flow_bike" type="bike"      route="east_west"   begin="0" end="600" vehsPerHour="200" departLane="best"/>
+</routes>

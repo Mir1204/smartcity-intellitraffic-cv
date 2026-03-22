@@ -1,0 +1,7 @@
+{
+  "mode": "fixed",
+  "green_time": 42,
+  "avg_waiting_time": 93.94,
+  "avg_queue_length": 6.58,
+  "total_arrived": 272
+}
